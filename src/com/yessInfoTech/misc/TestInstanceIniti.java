@@ -1,3 +1,4 @@
+
 package com.yessInfoTech.misc;
 
 public class TestInstanceIniti {
@@ -14,7 +15,7 @@ public class TestInstanceIniti {
 		System.out.println("constructor.....");
 		
 		
-		System.out.println("this is second message from the program");
+
 	}
 	
 	public static void main(String[] args) {
@@ -27,3 +28,4 @@ public class TestInstanceIniti {
 	}
 
 }
+
