@@ -20,6 +20,8 @@ public class TestInstanceIniti {
 	
 	public static void main(String[] args) {
 		
+		
+		System.out.println("constructor.....");
 		TestInstanceIniti obj1 = new TestInstanceIniti();
 		TestInstanceIniti obj2 = new TestInstanceIniti();
 		System.out.println(obj1.name);
